@@ -3,3 +3,11 @@ This web app was created to extract data from specific Excel files and present i
 The project was built primarily using Maven, Spring MVC, Bootstrap and Java. Our final deployed version is on an OpenShift server (note that sometimes this openshift server can be a bit slow in loading our app).
 
 http://dataminer-gloriousapps.rhcloud.com/
+
+Screenshots:
+
+![Alt text](http://i.imgur.com/B2vDljV.png "Home Page")
+![Alt text](http://i.imgur.com/bsE6DHm.png "Upload File")
+![Alt text](http://i.imgur.com/VT9dZ6X.png "View of Excel document")
+![Alt text](http://i.imgur.com/JzwG4zf.png "Results Page")
+![Alt text](http://i.imgur.com/8qBbvlx.png "Error Page")
